@@ -1,8 +1,19 @@
 #root {
-  max-width: 1280px;
+  max-width: 100%;
   margin: 0 auto;
   padding: 2rem;
   text-align: center;
+  background-color: #655A7C;
+  font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+.puppyList {
+  padding: 20px;
+  background-color: #AB92BF;
+  font-weight: bold;
+  font-size: 2em;
+  text-decoration: wavy;
+  text-shadow: 10px 10px 10px red;
 }
 
 .logo {
